@@ -1,0 +1,21 @@
+[
+  {
+    "Guid": "a4515566-3392-4210-9799-195605445211",
+    "Name": "VidKing",
+    "Description": "Stream movies and TV shows via VidKing iframe integration.",
+    "Overview": "Adds virtual library support and web player overlay for VidKing.",
+    "Owner": "Atmos Media",
+    "Category": "General",
+    "ImageUrl": "https://raw.githubusercontent.com/golisena/vidking-repo/main/icon.png",
+    "Versions": [
+      {
+        "Version": "1.0.0.0",
+        "Changelog": "Initial Release",
+        "TargetAbi": "10.9.0.0",
+        "SourceUrl": "https://github.com/golisena/vidking-repo/raw/main/Jellyfin.Plugin.VidKing_1.0.0.0.zip",
+        "Checksum": "35682261D46C9FFA21946F891835F150",
+        "Timestamp": "2025-01-01T00:00:00Z"
+      }
+    ]
+  }
+]
